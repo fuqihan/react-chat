@@ -7,9 +7,9 @@ class App extends React.Component<Props, object> {
     render() {
         return (
             <div>
-                App
+                woshiishui
             </div>
-        )
+        );
     }
 }
 

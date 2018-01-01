@@ -7,7 +7,7 @@ export default class Main extends React.Component<{}, {}> {
     render() {
         return (
             <div className="layout">
-                <Route path="/" component={App as any} />
+                <Route path="/" component={App} />
             </div>
         );
     }
